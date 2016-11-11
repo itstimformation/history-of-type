@@ -8,4 +8,4 @@
 
 
 
-+[History List](https://timtim-101.github.io/history-of-type/historylist.html)
++ [History List](https://timtim-101.github.io/history-of-type/historylist.html)
