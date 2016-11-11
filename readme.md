@@ -1,3 +1,5 @@
 #A Brief History of Type
 
-[A Brief History of Type](https://timtim-101.github.io/history-of-type/index.html)
++ [Version 1](https://timtim-101.github.io/history-of-type/ABHoT.html)
+
++ [Version 2](https://timtim-101.github.io/history-of-type/ABHoT2.html)
