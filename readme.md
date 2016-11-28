@@ -6,6 +6,9 @@
 
 + [Version 3](https://timtim-101.github.io/history-of-type/ABHoT3.html)
 
++ [Version 4](https://timtim-101.github.io/history-of-type/ABHoT4.html)
+
+
 
 
 + [History List](https://timtim-101.github.io/history-of-type/historylist.html)
